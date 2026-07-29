@@ -23,7 +23,8 @@
 This is a repository for my self-made license. As for what it’s for—you’ll see at a glance.  
 As long as you don’t violate this repo’s `LICENSE` file <sub>No sh\*t...</sub>, you’re free to use it in your works.  
 Of course, if your work has absolutely nothing to do with money (check the license file for details), you can just treat SCUL like MIT!  
-If you find it somewhat useful, why not drop a Star? Thanks owo
+If you find it somewhat useful, why not drop a Star? Thanks owo  
+~~Fun fact: By sending an email to the author, you might get your own exclusive SCUL URL that includes your copyright information.~~
 
 > [!CAUTION]
 > **SCUL cannot provide you with any legal assistance. Instead, it may put you at a disadvantage in court.**  
