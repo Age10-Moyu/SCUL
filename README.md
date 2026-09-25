@@ -3,6 +3,7 @@
 
 ---
 
+## 自述
 ***如果你的母语是简体中文，请阅读这个板块。***  
 这是一个关于我自制的许可证的仓库，至于用途嘛，一眼便知。  
 只要你能够做到不违反本仓库的 `LICENSE` 文件<sub>这™不是废话吗……</sub>，那么你就可以自由地将其使用在你的作品中。  
@@ -21,6 +22,7 @@
 
 ---
 
+## README
 ***If your native language is English, please read this section.***  
 This is a repository for my self-made license. As for what it’s for—you’ll see at a glance.  
 As long as you don’t violate this repo’s `LICENSE` file <sub>No sh\*t...</sub>, you’re free to use it in your works.  
